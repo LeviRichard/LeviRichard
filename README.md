@@ -2,7 +2,7 @@
 - 👀 I’m interested in web apps, web dev
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me richard.levi@stu.cu.edu
+- 📫 How to reach me richard.levi@stu.cu.edu.ng
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
