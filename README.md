@@ -104,6 +104,8 @@ My journey in Computer Engineering has equipped me with skills in video and phot
 - **Contact Management App** – implemented in C for storing and retrieving contact information  
 - **Library Management System** – implemented in Python for managing library resources  
 - **Attendance System** – designed ESP32 firmware in C to connect to the internet and send attendance data to a web service developed by a full-stack developer  
+- **Login Page** – implemented in C for user authentication  
 - **Pentesting Exercises** – practical exercises from the *Pentesting Handbook* by Georgia Weidman  
+ 
 
 
