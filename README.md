@@ -99,12 +99,13 @@ My journey in Computer Engineering has equipped me with skills in video and phot
 - **Simple Antivirus** – signature-based detection implemented in C  
 - **Keylogger** – implemented in Python for monitoring keystrokes  
 - **JAMB Portal CLI Clone** – command-line interface clone project for learning CLI development  
-- **Calendar Application** – implemented in C for date and event management  
-- **Banking Management App** – implemented in C to simulate banking operations  
-- **Contact Management App** – implemented in C for storing and retrieving contact information  
+- **Calendar Application** – <a href="https://github.com/LeviRichard/Calendar-with-C">implemented in C for date and event management</a>  
+- **Banking Management App** – <a href="https://github.com/LeviRichard/Simple-bank-app-for-users">implemented in C to simulate banking operations</a>
+- **Banking Mnagament App** - <a href="https://github.com/LeviRichard/Banking-System">implemented in Python to practice OOP concepts</a> 
+- **Contact Management App** – <a href="https://github.com/LeviRichard/Contact-Manager">implemented in C for storing and retrieving contact information</a>  
 - **Library Management System** – implemented in Python for managing library resources  
-- **Attendance System** – designed ESP32 firmware in C to connect to the internet and send attendance data to a web service developed by a full-stack developer  
-- **Login Page** – implemented in C for user authentication  
+- **Attendance System** – <a href="https://github.com/LeviRichard/Attendance-Machine-with-Web-app-integration">designed ESP32 firmware in C to connect to the internet and send attendance data to a web service developed by a full-stack developer</a>
+- **Login Page** – <a href="https://github.com/LeviRichard/Login-Page-with-C">implemented in C for user authentication</a>  
 - **Pentesting Exercises** – practical exercises from the *Pentesting Handbook* by Georgia Weidman  
  
 
