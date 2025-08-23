@@ -13,7 +13,7 @@ My journey in Computer Engineering has equipped me with skills in video and phot
 
 | Skill                                         | Associated Project                                                                 |
 |-----------------------------------------------|------------------------------------------------------------------------------------|
-| Backend Web Development with Django           | Blop – Spotify & YouTube Companion App                                             |
+| Backend Web Development with Django           | <a href="https://github.com/LeviRichard/Backen-Django-project">Blop – Spotify & YouTube Companion App</a>                                           |
 | Secure Software Development (C, Python)       | Password Manager in C (OpenSSL), Port Scanner in Python                            |
 | Malware Analysis & Detection                  | Simple Antivirus (Signature-Based, C)                                              |
 | Keylogging & Threat Simulation                | Keylogger in Python                                                                |
@@ -93,7 +93,7 @@ My journey in Computer Engineering has equipped me with skills in video and phot
 </div>
 
 ## Projects
-- **Spotify & YouTube Companion App ("Blop")** – backend web development using Django  
+- **Spotify & YouTube Companion App ("Blop")** – <a href="https://github.com/LeviRichard/Backen-Django-project">backend web development using Django</a>  
 - **Password Manager** – implemented in C using OpenSSL for secure storage  
 - **Port Scanner** – implemented in Python for network scanning and enumeration  
 - **Simple Antivirus** – signature-based detection implemented in C  
