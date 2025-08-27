@@ -106,7 +106,8 @@ My journey in Computer Engineering has equipped me with skills in video and phot
 - **Library Management System** – implemented in Python for managing library resources  
 - **Attendance System** – <a href="https://github.com/LeviRichard/Attendance-Machine-with-Web-app-integration">designed ESP32 firmware in C to connect to the internet and send attendance data to a web service developed by a full-stack developer</a>
 - **Login Page** – <a href="https://github.com/LeviRichard/Login-Page-with-C">implemented in C for user authentication</a>  
-- **Pentesting Exercises** – practical exercises from the *Pentesting Handbook* by Georgia Weidman  
+- **Pentesting Exercises** – practical exercises from the *Pentesting Handbook* by Georgia Weidman
+- **Simple Data Extraction Script** - <a href="
  
 
 
